@@ -1,0 +1,10 @@
+Mastercard: Começa com 51-55 ou 2221-2720 e tem 16 dígitos.
+Visa: Começa com 4 e tem 13 ou 16 dígitos.
+American Express: Começa com 34 ou 37 e tem 15 dígitos.
+Diners Club: Começa com 300-305, 36 ou 38 e tem 14 dígitos.
+Discover: Começa com 6011, 622126-622925, 644-649 ou 65 e tem 16 dígitos.
+Enroute: Começa com 2014 ou 2149 e tem 15 dígitos.
+JCB: Começa com 3528-3589 e tem 16 dígitos.
+Voyager: Começa com 8699 e tem 15 dígitos.
+Hipercard: Começa com 38 ou 60 e tem 13, 16 ou 19 dígitos.
+Aura: Começa com 50 e tem 16 dígitos.
