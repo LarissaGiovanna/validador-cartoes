@@ -8,10 +8,6 @@ Este projeto é um aplicativo simples em JavaScript para validar bandeiras de ca
 
 O projeto possui a seguinte estrutura de arquivos:
 
-index.js
-padroes.json
-padroes.txt
-
 ### Arquivos
 
 - `index.js`: Contém o código principal da aplicação.
